@@ -1,0 +1,17 @@
+.left-image {
+    width: 0.2rem;
+    height: 0.2rem;
+    margin-right: .1rem;
+}
+
+.singleLine-item {
+    height: 0.56rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 0.1rem;
+    padding-right: 0.1rem;
+    color: #555;
+}
+
+.class {}
